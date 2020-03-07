@@ -1,5 +1,9 @@
 <p align="center"><img src="https://i.imgur.com/tzPBaLO.png"></p>
 
+## Introduction
+
+This is a adapted template for application development using Laravel in backend and Quasar Framework for front-end in VueJS, have fun!
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
